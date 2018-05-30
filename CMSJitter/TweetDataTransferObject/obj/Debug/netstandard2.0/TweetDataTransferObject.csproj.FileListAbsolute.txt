@@ -1,0 +1,18 @@
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\bin\Debug\netstandard2.0\TweetDataTransferObject.deps.json
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\bin\Debug\netstandard2.0\TweetDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\bin\Debug\netstandard2.0\TweetDataTransferObject.pdb
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.pdb
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\bin\Debug\netstandard2.0\TweetDataTransferObject.deps.json
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\bin\Debug\netstandard2.0\TweetDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\bin\Debug\netstandard2.0\TweetDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\TweetDataTransferObject\obj\Debug\netstandard2.0\TweetDataTransferObject.pdb

@@ -1,0 +1,18 @@
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\bin\Debug\netstandard2.0\USERFollowerDataTransferObject.deps.json
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\bin\Debug\netstandard2.0\USERFollowerDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\bin\Debug\netstandard2.0\USERFollowerDataTransferObject.pdb
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\bin\Debug\netstandard2.0\USERFollowerDataTransferObject.deps.json
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\bin\Debug\netstandard2.0\USERFollowerDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\bin\Debug\netstandard2.0\USERFollowerDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERFollowerDataTransferObject\obj\Debug\netstandard2.0\USERFollowerDataTransferObject.pdb

@@ -1,0 +1,18 @@
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\bin\Debug\netstandard2.0\USERDataTransferObject.deps.json
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\bin\Debug\netstandard2.0\USERDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\bin\Debug\netstandard2.0\USERDataTransferObject.pdb
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\bin\Debug\netstandard2.0\USERDataTransferObject.deps.json
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\bin\Debug\netstandard2.0\USERDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\bin\Debug\netstandard2.0\USERDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\USERDataTransferObject\obj\Debug\netstandard2.0\USERDataTransferObject.pdb

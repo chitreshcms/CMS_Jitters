@@ -1,0 +1,43 @@
+<p-tabView>
+    <div style="text-align:right">
+        <button pButton type="button" label="Logout" ></button>
+    </div>
+    <p-tabPanel header="JitterHome">
+        <div style="text-align:left">
+        <button pButton type="button" label="New Tweet" ></button>
+        </div>
+      <p-card>
+          Tweet1
+      </p-card>
+      <p-card>
+          Tweet2
+      </p-card>
+      <p-card>
+          Tweet3
+      </p-card>
+    </p-tabPanel>
+    <p-tabPanel header="Followers">
+        Content 2
+    </p-tabPanel>
+    <p-tabPanel header="Following">
+        Content 3    
+    </p-tabPanel>
+    <p-tabPanel header="Search">
+        <p-tabView>    
+            <p-tabPanel header="People">
+                    <input type="text" size="50" pInputText />
+                    <button pButton type="button" label="Search" ></button>        
+              </p-tabPanel>
+              <p-tabPanel header="Posts">
+                    <input type="text" size="50" pInputText />
+                    <button pButton type="button" label="Search" ></button>        
+              </p-tabPanel>
+
+    </p-tabView>   
+  </p-tabPanel>
+  <p-tabPanel header="Stats">
+        <p-card>
+            StatsDIV
+        </p-card>   
+  </p-tabPanel>
+</p-tabView>

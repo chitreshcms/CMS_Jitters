@@ -1,0 +1,18 @@
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\bin\Debug\netstandard2.0\UserReactionDataTransferObject.deps.json
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\bin\Debug\netstandard2.0\UserReactionDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\bin\Debug\netstandard2.0\UserReactionDataTransferObject.pdb
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\bin\Debug\netstandard2.0\UserReactionDataTransferObject.deps.json
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\bin\Debug\netstandard2.0\UserReactionDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\bin\Debug\netstandard2.0\UserReactionDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\UserReactionDataTransferObject\obj\Debug\netstandard2.0\UserReactionDataTransferObject.pdb

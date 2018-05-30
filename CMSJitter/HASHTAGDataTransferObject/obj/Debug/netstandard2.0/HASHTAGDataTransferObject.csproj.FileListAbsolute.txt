@@ -1,0 +1,18 @@
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\bin\Debug\netstandard2.0\HASHTAGDataTransferObject.deps.json
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\bin\Debug\netstandard2.0\HASHTAGDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\bin\Debug\netstandard2.0\HASHTAGDataTransferObject.pdb
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.dll
+C:\Users\chitreshsharma\Documents\Visual Studio 2017\Projects\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\bin\Debug\netstandard2.0\HASHTAGDataTransferObject.deps.json
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\bin\Debug\netstandard2.0\HASHTAGDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\bin\Debug\netstandard2.0\HASHTAGDataTransferObject.pdb
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.AssemblyInfo.cs
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.dll
+C:\Users\chitreshsharma\Desktop\ChitreshSharma_3147233_FinalTest\CMSJitter\HASHTAGDataTransferObject\obj\Debug\netstandard2.0\HASHTAGDataTransferObject.pdb

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CMSTweetDBModelStoreContainer" CdmEntityContainer="CMSTweetDBEntities1">
+    <EntitySetMapping Name="HashTags">
+      <EntityTypeMapping TypeName="CMSTweetDBModel.HashTag">
+        <MappingFragment StoreEntitySet="HashTag">
+          <ScalarProperty Name="HashTagId" ColumnName="HashTagId" />
+          <ScalarProperty Name="HashTagName" ColumnName="HashTagName" />
+          <ScalarProperty Name="TweetId" ColumnName="TweetId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tweets">
+      <EntityTypeMapping TypeName="CMSTweetDBModel.Tweet">
+        <MappingFragment StoreEntitySet="Tweet">
+          <ScalarProperty Name="TweetId" ColumnName="TweetId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="TweetContent" ColumnName="TweetContent" />
+          <ScalarProperty Name="TotalLikes" ColumnName="TotalLikes" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="CMSTweetDBModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="FName" ColumnName="FName" />
+          <ScalarProperty Name="LName" ColumnName="LName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="MobNumber" ColumnName="MobNumber" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="TotalTweets" ColumnName="TotalTweets" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserFollowers">
+      <EntityTypeMapping TypeName="CMSTweetDBModel.UserFollower">
+        <MappingFragment StoreEntitySet="UserFollowers">
+          <ScalarProperty Name="UserFollowersId" ColumnName="UserFollowersId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="FollowerId" ColumnName="FollowerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserReactions">
+      <EntityTypeMapping TypeName="CMSTweetDBModel.UserReaction">
+        <MappingFragment StoreEntitySet="UserReaction">
+          <ScalarProperty Name="UserReactionId" ColumnName="UserReactionId" />
+          <ScalarProperty Name="TweetId" ColumnName="TweetId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="IsLiked" ColumnName="IsLiked" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
